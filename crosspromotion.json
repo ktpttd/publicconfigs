@@ -1,0 +1,39 @@
+{
+	"Version": 6,
+	"AppsList-Android": [{
+		"AppTitle": "Helix Jump 2: Flexi Hoops",
+		"AppDescription": "Tap to jump and try to go as high as you can. Beware of the Flexi Hoops...’Cause they always be elasticity. Can you get through those Flexi Hoops easily?",
+		"IconUrl": "https://raw.githubusercontent.com/GopencilsDeveloper/tic-tac-rings/master/HelixJump_Icon.png",
+		"ScreenshotUrl": "https://raw.githubusercontent.com/GopencilsDeveloper/tic-tac-rings/master/HelixJump.png",
+		"Visible": true,
+		"ShouldShowPopup": true,
+		"Id": "gopencils.games.hoop.jump"
+	},
+	{
+		"AppTitle": "Troll & Tricky Test: Rush Quiz",
+		"AppDescription": "Troll & Tricky is an crazy addictive free IQ brainy game you sure will enjoy with your friends, even with your grandpa and ma!",
+		"IconUrl": "https://raw.githubusercontent.com/GopencilsDeveloper/tic-tac-rings/master/TrollnTricky_Icon.png",
+		"ScreenshotUrl": "https://raw.githubusercontent.com/GopencilsDeveloper/tic-tac-rings/master/TrollnTricky.png",
+		"Visible": true,
+		"ShouldShowPopup": false,
+		"Id": "gopencils.games.troll.tricky.test"
+	}],
+	"AppsList-iOS": [{
+		"AppTitle": "Helix Jump 2: Flexi Hoops",
+		"AppDescription": "Tap to jump and try to go as high as you can. Beware of the Flexi Hoops...’Cause they always be elasticity. Can you get through those Flexi Hoops easily?",
+		"IconUrl": "https://raw.githubusercontent.com/GopencilsDeveloper/tic-tac-rings/master/HelixJump_Icon.png",
+		"ScreenshotUrl": "https://raw.githubusercontent.com/GopencilsDeveloper/tic-tac-rings/master/HelixJump.png",
+		"Visible": true,
+		"ShouldShowPopup": true,
+		"Id": "gopencils.games.hoop.jump"
+	},
+	{
+		"AppTitle": "Troll & Tricky Test: Rush Quiz",
+		"AppDescription": "Troll & Tricky is an crazy addictive free IQ brainy game you sure will enjoy with your friends, even with your grandpa and ma!",
+		"IconUrl": "https://raw.githubusercontent.com/GopencilsDeveloper/tic-tac-rings/master/TrollnTricky_Icon.png",
+		"ScreenshotUrl": "https://raw.githubusercontent.com/GopencilsDeveloper/tic-tac-rings/master/TrollnTricky.png",
+		"Visible": true,
+		"ShouldShowPopup": false,
+		"Id": "gopencils.games.troll.tricky.test"
+	}]
+}
